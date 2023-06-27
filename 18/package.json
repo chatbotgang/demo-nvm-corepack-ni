@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "lodash.template": "^4.5.0"
+  },
+  "engines": {
+    "node": "18",
+    "npm": "9"
+  },
+  "packageManager": "npm@9.5.1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
