@@ -1,6 +1,6 @@
-# Node.js × nvm × Package Managers × corepack Demo
+# Seamlessly Switching Between Node.js Projects — Mastering Node Versions and Package Manager Management Demo
 
-This is a demo for the [Node.js × nvm × Package Managers × corepack](https://www.notion.so/cresclab/Node-js-nvm-Package-Managers-corepack-904c583368f744a695c9afce3ca0684c?pvs=4) article.
+This is a demo for the [Seamlessly Switching Between Node.js Projects — Mastering Node Versions and Package Manager Management](https://medium.com/漸強實驗室-crescendo-lab-engineering-blog/seamlessly-switching-between-node-js-projects-34bea8f851b7) article.
 
 ## Requirements
 
@@ -9,7 +9,12 @@ This is a demo for the [Node.js × nvm × Package Managers × corepack](https://
 
 ## Usage
 
-`cd` to the directory and run `ni`
+`cd` to the directory and execute:
+
+```bash
+node -v
+ni -v
+```
 
 ## Clean up
 
