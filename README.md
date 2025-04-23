@@ -22,6 +22,8 @@ ni -v
 git clean -f -d -x
 ```
 
-## Copyright
+## License
 
-©️ 2023 [Crescendo Lab](https://cresclab.com)
+CC BY-SA 4.0
+
+©️ 2023–2025 [Crescendo Lab](https://cresclab.com)
